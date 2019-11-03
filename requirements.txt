@@ -1,0 +1,11 @@
+tornado
+requests
+numpy
+pandas
+openpyxl
+scipy
+matplotlib
+pykrige
+xlrd
+opencv-python
+openpyxl
